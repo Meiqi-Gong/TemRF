@@ -12,8 +12,6 @@ TemRF is a multi-modal video fusion framework designed to handle complex degrada
 
 ![TemRF result](images/photo_0310_29.gif)
 
-
-
 ## Code Availability
 
 This repository is reserved for the official implementation of TemRF. The source code will be made publicly available upon acceptance of the paper.
